@@ -1,6 +1,7 @@
-[
-  {
-    "product": {
+{
+  "products": [
+    {
+      "id": 1,
       "title": "Nike Dunk Low Retro",
       "productInfo": [
         {
@@ -20,10 +21,9 @@
           ]
         }
       ]
-    }
-  },
-  {
-    "product": {
+    },
+    {
+      "id": 2,
       "title": "Nike Dunk Low Retro",
       "productInfo": [
         {
@@ -33,12 +33,11 @@
             "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/732d313c-d3e8-43f9-ae6b-b2af1549030c/dunk-low-retro-mens-shoes-7zsVZN.png",
             "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8ba0d092-86ab-4cba-afcc-a9edfb5a4299/dunk-low-retro-mens-shoes-7zsVZN.png"
           ]
-        } 
+        }
       ]
-    }
-  },
-  {
-    "product": {
+    },
+    {
+      "id": 3,
       "title": "Nike Alphafly 2",
       "productInfo": [
         {
@@ -66,10 +65,9 @@
           ]
         }
       ]
-    }
-  },
-  {
-    "product": {
+    },
+    {
+      "id": 4,
       "title": "Nike Sportswear",
       "productInfo": [
         {
@@ -89,10 +87,9 @@
           ]
         }
       ]
-    }
-  },
-  {
-    "product": {
+    },
+    {
+      "id": 5,
       "title": "Jordan Fadeaway",
       "productInfo": [
         {
@@ -113,5 +110,5 @@
         }
       ]
     }
-  }
-]
+  ]
+}
