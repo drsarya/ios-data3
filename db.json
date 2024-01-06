@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Nike Dunk Low Retro",
-      "productInfo": [
+      "productInfos": [
         {
           "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
           "nestedImagesNames": [
@@ -25,7 +25,7 @@
     {
       "id": 2,
       "title": "Nike Dunk Low Retro",
-      "productInfo": [
+      "productInfos": [
         {
           "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f6edde7c-6730-428b-b1ef-8dc5d7af97d7/dunk-low-retro-mens-shoes-7zsVZN.png",
           "nestedImagesNames": [
@@ -39,7 +39,7 @@
     {
       "id": 3,
       "title": "Nike Alphafly 2",
-      "productInfo": [
+      "productInfos": [
         {
           "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/95111562-fdf1-41b2-8981-486fb00cd060/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
           "nestedImagesNames": [
@@ -69,7 +69,7 @@
     {
       "id": 4,
       "title": "Nike Sportswear",
-      "productInfo": [
+      "productInfos": [
         {
           "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b270616c-e7aa-4bb1-925c-e6c28ab27648/sportswear-rpm-tote-26l-w6vz58.png",
           "nestedImagesNames": [
@@ -91,7 +91,7 @@
     {
       "id": 5,
       "title": "Jordan Fadeaway",
-      "productInfo": [
+      "productInfos": [
         {
           "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5928773f-35c7-4f4c-ad90-608b083374d4/jordan-fadeaway-6-way-golf-bag-h8qqBv.png",
           "nestedImagesNames": [
