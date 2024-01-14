@@ -1,111 +1,121 @@
 {
-  "products": [
+  "groups": [
     {
       "id": 1,
-      "name": "Product 1 name",
-      "description": " Product 1",
-      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
-      "amountColours": 5,
-      "price": 100,
-      "productInfos": [
+      "name": "all",
+      "products": [
         {
-          "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
-          "nestedImagesNames": [
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/467ccd97-8413-4635-862d-b26709bf7cfb/dunk-low-retro-mens-shoes-b7qQN2.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dc59c130-aad6-4c90-8a8b-e507eaabc75e/dunk-low-retro-mens-shoes-b7qQN2.png"
-           
+          "id": 1,
+          "name": "Product 1 name",
+          "description": " Product 1",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
+          "amountColours": 5,
+          "price": 100,
+          "productInfos": [
+            {
+              "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
+              "nestedImagesNames": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/467ccd97-8413-4635-862d-b26709bf7cfb/dunk-low-retro-mens-shoes-b7qQN2.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dc59c130-aad6-4c90-8a8b-e507eaabc75e/dunk-low-retro-mens-shoes-b7qQN2.png"
+              ]
+            },
+            {
+              "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e322a2b0-1f40-43ba-9392-a44c8dff7a6f/dunk-low-retro-mens-shoes-b7qQN2.png",
+              "nestedImagesNames": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04f1f400-da55-4400-85f9-84d39c20e358/dunk-low-retro-mens-shoes-b7qQN2.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a2b8c1fa-f22c-44a9-8aac-6351e9e9d59b/dunk-low-retro-mens-shoes-b7qQN2.png"
+              ]
+            }
           ]
         },
         {
-          "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e322a2b0-1f40-43ba-9392-a44c8dff7a6f/dunk-low-retro-mens-shoes-b7qQN2.png",
-          "nestedImagesNames": [
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04f1f400-da55-4400-85f9-84d39c20e358/dunk-low-retro-mens-shoes-b7qQN2.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a2b8c1fa-f22c-44a9-8aac-6351e9e9d59b/dunk-low-retro-mens-shoes-b7qQN2.png"
-            
+          "id": 2,
+          "name": "Product 1 name",
+          "description": " Product 1",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
+          "amountColours": 5,
+          "price": 100,
+          "productInfos": [
+            {
+              "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f6edde7c-6730-428b-b1ef-8dc5d7af97d7/dunk-low-retro-mens-shoes-7zsVZN.png",
+              "nestedImagesNames": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a38d1157-c3ee-4076-9f7f-85e9c541888c/dunk-low-retro-mens-shoes-7zsVZN.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/732d313c-d3e8-43f9-ae6b-b2af1549030c/dunk-low-retro-mens-shoes-7zsVZN.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8ba0d092-86ab-4cba-afcc-a9edfb5a4299/dunk-low-retro-mens-shoes-7zsVZN.png"
+              ]
+            }
           ]
         }
       ]
     },
     {
-      "id": 2,
-      "name": "Product 1 name",
-      "description": " Product 1",
-      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
-      "amountColours": 5,
-      "price": 100,
-      "productInfos": [
+      "id": 1,
+      "name": "all",
+      "products": [
         {
-          "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f6edde7c-6730-428b-b1ef-8dc5d7af97d7/dunk-low-retro-mens-shoes-7zsVZN.png",
-          "nestedImagesNames": [
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a38d1157-c3ee-4076-9f7f-85e9c541888c/dunk-low-retro-mens-shoes-7zsVZN.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/732d313c-d3e8-43f9-ae6b-b2af1549030c/dunk-low-retro-mens-shoes-7zsVZN.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8ba0d092-86ab-4cba-afcc-a9edfb5a4299/dunk-low-retro-mens-shoes-7zsVZN.png"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Product 1 name",
-      "description": " Product 1",
-      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
-      "amountColours": 5,
-      "price": 100,
-      "productInfos": [
-        {
-          "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/95111562-fdf1-41b2-8981-486fb00cd060/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
-          "nestedImagesNames": [
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2bfcce04-2b00-44cb-96d3-57a950ebe2a0/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/412f6f51-e524-45d4-9816-598aefa53e98/alphafly-2-mens-road-racing-shoes-Bstm8X.png" 
+          "id": 3,
+          "name": "Product 1 name",
+          "description": " Product 1",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
+          "amountColours": 5,
+          "price": 100,
+          "productInfos": [
+            {
+              "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/95111562-fdf1-41b2-8981-486fb00cd060/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
+              "nestedImagesNames": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2bfcce04-2b00-44cb-96d3-57a950ebe2a0/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/412f6f51-e524-45d4-9816-598aefa53e98/alphafly-2-mens-road-racing-shoes-Bstm8X.png"
+              ]
+            },
+            {
+              "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1e4ffa00-ad76-4d6f-9ada-c4d73234dd26/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
+              "nestedImagesNames": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/61fc9d7a-992e-4166-b2a6-979521ba30f6/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/87f37714-b2a2-4f7d-ba79-b3e0e08da090/alphafly-2-mens-road-racing-shoes-Bstm8X.png"
+              ]
+            }
           ]
         },
         {
-          "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1e4ffa00-ad76-4d6f-9ada-c4d73234dd26/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
-          "nestedImagesNames": [
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/61fc9d7a-992e-4166-b2a6-979521ba30f6/alphafly-2-mens-road-racing-shoes-Bstm8X.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/87f37714-b2a2-4f7d-ba79-b3e0e08da090/alphafly-2-mens-road-racing-shoes-Bstm8X.png" 
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Product 1 name",
-      "description": " Product 1",
-      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
-      "amountColours": 5,
-      "price": 100,
-      "productInfos": [
-        {
-          "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b270616c-e7aa-4bb1-925c-e6c28ab27648/sportswear-rpm-tote-26l-w6vz58.png",
-          "nestedImagesNames": [
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a8704c65-000f-4cc3-a5c4-016205dabc40/sportswear-rpm-tote-26l-w6vz58.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/69ec0f77-6945-404e-9c5d-866471322518/sportswear-rpm-tote-26l-w6vz58.png" 
+          "id": 4,
+          "name": "Product 1 name",
+          "description": " Product 1",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
+          "amountColours": 5,
+          "price": 100,
+          "productInfos": [
+            {
+              "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b270616c-e7aa-4bb1-925c-e6c28ab27648/sportswear-rpm-tote-26l-w6vz58.png",
+              "nestedImagesNames": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a8704c65-000f-4cc3-a5c4-016205dabc40/sportswear-rpm-tote-26l-w6vz58.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/69ec0f77-6945-404e-9c5d-866471322518/sportswear-rpm-tote-26l-w6vz58.png"
+              ]
+            },
+            {
+              "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2fc11238-2442-4b27-b0ba-0d52a26f7c5b/sportswear-rpm-tote-26l-w6vz58.png",
+              "nestedImagesNames": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/80cbbc8a-306d-46e0-b484-e3d980fd90a6/sportswear-rpm-tote-26l-w6vz58.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/55dfc310-2495-4acf-b88c-8b08c5fbc548/sportswear-rpm-tote-26l-w6vz58.png"
+              ]
+            }
           ]
         },
         {
-          "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2fc11238-2442-4b27-b0ba-0d52a26f7c5b/sportswear-rpm-tote-26l-w6vz58.png",
-          "nestedImagesNames": [
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/80cbbc8a-306d-46e0-b484-e3d980fd90a6/sportswear-rpm-tote-26l-w6vz58.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/55dfc310-2495-4acf-b88c-8b08c5fbc548/sportswear-rpm-tote-26l-w6vz58.png" 
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Product 1 name",
-      "description": " Product 1",
-      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
-      "amountColours": 5,
-      "price": 100,
-      "productInfos": [
-        {
-          "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/40e1f268-2285-403b-93d9-7ca8e8a37ad4/jordan-fadeaway-6-way-golf-bag-h8qqBv.png",
-          "nestedImagesNames": [
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/59a4b6be-4140-498b-9b95-7ec176676381/jordan-fadeaway-6-way-golf-bag-h8qqBv.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/59a4b6be-4140-498b-9b95-7ec176676381/jordan-fadeaway-6-way-golf-bag-h8qqBv.png",
-            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ad24295b-c8fd-4582-8116-333074cd29a8/jordan-fadeaway-6-way-golf-bag-h8qqBv.png"
+          "id": 5,
+          "name": "Product 1 name",
+          "description": " Product 1",
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99175768-9c5d-4563-b1a7-684be4f5e1db/dunk-low-retro-mens-shoes-b7qQN2.png",
+          "amountColours": 5,
+          "price": 100,
+          "productInfos": [
+            {
+              "mainImageName": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/40e1f268-2285-403b-93d9-7ca8e8a37ad4/jordan-fadeaway-6-way-golf-bag-h8qqBv.png",
+              "nestedImagesNames": [
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/59a4b6be-4140-498b-9b95-7ec176676381/jordan-fadeaway-6-way-golf-bag-h8qqBv.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/59a4b6be-4140-498b-9b95-7ec176676381/jordan-fadeaway-6-way-golf-bag-h8qqBv.png",
+                "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ad24295b-c8fd-4582-8116-333074cd29a8/jordan-fadeaway-6-way-golf-bag-h8qqBv.png"
+              ]
+            }
           ]
         }
       ]
